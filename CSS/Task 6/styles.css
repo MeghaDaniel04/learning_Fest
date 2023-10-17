@@ -1,0 +1,14 @@
+.margin
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.outer-class{
+    background-color: orange;
+    height:100px;
+    width:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
